@@ -1,4 +1,6 @@
-## BUSINESS UNDERSTANDING
+## Risk Analytics for Loan Applicants
+
+### BUSINESS UNDERSTANDING
 
 A bank is a type of financial institution that accepts public deposits and lends money to both 
 individuals and corporations. it can be challenging to grant loans to individuals, due to their weak or 
@@ -12,7 +14,7 @@ business.
 To examine the patterns found in the data, you must use EDA. By doing this, it will be ensured that 
 only those applicants who can repay the loan would be accepted.
 
-## BUSINESS OBJECTIVE
+### BUSINESS OBJECTIVE
 
 This case study tries to find trends that show whether a client is having trouble making their 
 payments, which may be used to decide whether to grant the loan, reduce its size, charge riskier 
